@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=933
+
+Perl DBI:: module is database independent interface for Perl
+
+database-client.vim uses this Perl module and allows you make multiple connections to database, send SQL commands and receive data from database
+
+Requirements: Vim '+perl' feature, installed Perl (5.8.x version or above), DBI perl module
+
